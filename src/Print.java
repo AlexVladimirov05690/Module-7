@@ -8,6 +8,6 @@ public class Print {
     }
 
     public void printSquareVolume(String name, double square, double volume) {
-        System.out.println(name + ". Площадь поверхности равна: " + square + " Объём данной фигуры равен: " + volume);
+        System.out.println(name + ". Площадь поверхности равна: " + square + ". Объём данной фигуры равен: " + volume);
     }
 }
